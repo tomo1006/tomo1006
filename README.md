@@ -39,11 +39,8 @@ Tooling for analyzing structured business files using C#.
 - Google Cloud Professional Cloud Security Engineer
 
 ## GitHub Stats
-
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tomo1006&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomo1006&layout=compact&theme=radical" />
-</p>
+[![Top Langs](https://github-readme-stats-omega-eight-70.vercel.app/api/top-langs/?username=tomo1006&layout=compact&theme=radical)](https://github.com/tomo1006)
+[![GitHub Stats](https://github-readme-stats-omega-eight-70.vercel.app/api?username=tomo1006&show_icons=true&theme=radical)](https://github.com/tomo1006)
 
 ## Contact
 
