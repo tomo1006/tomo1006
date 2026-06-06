@@ -35,8 +35,8 @@ Tooling for analyzing structured business files using C#.
 
 ## Certifications
 
-- Google Cloud Professional Cloud Architect
-- Google Cloud Professional Cloud Security Engineer
+<a href="https://www.credly.com/badges/94c3abd8-f1a0-4be3-90d4-f27ee642cc43"><img src="./images/pcse.png" width="120" alt="Professional Cloud Security Engineer"/></a>
+<a href="https://www.credly.com/badges/9793915d-e084-47ce-aeef-650ce8dc9b85"><img src="./images/pca.png" width="120" alt="Professional Cloud Architect"/></a>
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats-omega-eight-70.vercel.app/api/top-langs/?username=tomo1006&layout=compact&theme=radical)](https://github.com/tomo1006)
