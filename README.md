@@ -23,8 +23,13 @@
 <p>
   <img
     src="https://github-readme-stats-omega-eight-70.vercel.app/api?username=tomo1006&show_icons=true&hide_title=true&hide_border=false&bg_color=ffffff&title_color=111111&text_color=555555&icon_color=999999&ring_color=3b82f6&border_color=e5e7eb&cache_seconds=21600"
-    width="680"
+    height="180"
     alt="Tomo Hirata GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-omega-eight-70.vercel.app/api/top-langs/?username=tomo1006&layout=compact&hide_border=false&bg_color=ffffff&title_color=111111&text_color=555555&border_color=e5e7eb&cache_seconds=21600"
+    height="180"
+    alt="Top Languages"
   />
 </p>
 
