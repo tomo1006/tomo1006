@@ -39,5 +39,5 @@ Tooling for analyzing structured business files using C#.
 <a href="https://www.credly.com/badges/9793915d-e084-47ce-aeef-650ce8dc9b85"><img src="./images/pca.png" width="120" alt="Professional Cloud Architect"/></a>
 
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats-omega-eight-70.vercel.app/api/top-langs/?username=tomo1006&layout=compact&theme=radical)](https://github.com/tomo1006)
-[![GitHub Stats](https://github-readme-stats-omega-eight-70.vercel.app/api?username=tomo1006&show_icons=true&theme=radical)](https://github.com/tomo1006)
+[![Top Langs](https://github-readme-stats-omega-eight-70.vercel.app/api/top-langs/?username=tomo1006&layout=compact&theme=radical&cache_seconds=21600)](https://github.com/tomo1006)
+[![GitHub Stats](https://github-readme-stats-omega-eight-70.vercel.app/api?username=tomo1006&show_icons=true&theme=radical&cache_seconds=21600)](https://github.com/tomo1006)
