@@ -5,16 +5,6 @@
 <h3>Software Engineer</h3>
 
 <p>
-  Building practical software for search, workflow improvement,<br/>
-  and secure cloud use.
-</p>
-
-<p>
-  Search · Workflow Tools · Secure Web Applications · AI/RAG<br/>
-  Full-Stack · Search Systems · Google Cloud Security
-</p>
-
-<p>
   <a href="https://www.credly.com/badges/94c3abd8-f1a0-4be3-90d4-f27ee642cc43"><img src="./images/pcse.png" width="115" alt="Professional Cloud Security Engineer"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/9793915d-e084-47ce-aeef-650ce8dc9b85"><img src="./images/pca.png" width="115" alt="Professional Cloud Architect"/></a>
